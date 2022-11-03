@@ -1,3 +1,6 @@
+Use 2 loop and compare each element with rest of the element.
+
+Using HashMap
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer,Integer> map=new HashMap<>();
